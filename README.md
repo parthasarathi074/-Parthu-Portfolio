@@ -1,4 +1,4 @@
-<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/d3430aaf-203c-45d5-833c-31127cdae12b" /># -Parthu-Portfolio
+-Parthu-Portfolio
 portfolio showcasing projects in automation, machine learning, web development, cloud architecture, and hackathons.
 
 # Parthu's Portfolio 🚀
